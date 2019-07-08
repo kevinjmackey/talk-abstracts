@@ -1,5 +1,5 @@
- #Abstracts for Conference Talks
+# Abstracts for Conference Talks
 
- ###SQL Saturday
+### SQL Saturday
 
 These initial talk abstracts were developed for SQL Saturday talks
