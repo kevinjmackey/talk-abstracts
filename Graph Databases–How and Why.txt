@@ -6,3 +6,5 @@ In this session we'll look at graph databases for
 	how to model graph databases
 	how to easily express relationships between interconnected data
 	how to efficiently retrieve interrelated data 
+
+We'll look at the MATCH predicate in T-SQL and the MATCH statement in Cypher, the query language for Neo4j.
