@@ -1,0 +1,5 @@
+Drive your SSIS processes with metadata
+
+You have flat files to load. They come in different sizes (but–happily–not shapes), at (almost) random times, and other processes depend on them being loaded.
+How can you know where you are in the process? How can you ensure as much parallelism as possible? When do you know you're done?
+This session looks at the patterns to use in assembling a generalized package set to accomplish the above. I know it works–because I had to build exactly this!
